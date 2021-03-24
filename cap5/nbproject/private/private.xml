@@ -6,5 +6,12 @@
         <group name="BookChapters"/>
         <group name="AllBookProjects"/>
         <group name="Apress-2d-game-engine"/>
+        <group>
+            <file>file:/C:/Users/Deutscho/Desktop/cg/cguv211/cap5/public_html/src/GLSLShaders/TextureVS.glsl</file>
+            <file>file:/C:/Users/Deutscho/Desktop/cg/cguv211/cap5/public_html/src/GLSLShaders/TextureFS.glsl</file>
+            <file>file:/C:/Users/Deutscho/Desktop/cg/cguv211/cap5/public_html/assets/Consolas-72.png</file>
+            <file>file:/C:/Users/Deutscho/Desktop/cg/cguv211/cap5/public_html/assets/minion_sprite.png</file>
+            <file>file:/C:/Users/Deutscho/Desktop/cg/cguv211/cap5/public_html/assets/fonts/Consolas-16.fnt</file>
+        </group>
     </open-files>
 </project-private>
